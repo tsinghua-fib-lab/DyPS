@@ -1,5 +1,5 @@
 # DyPs
-This is the code for paper "Hierarchical Multi-Agent Reinforcement Learning for Spatio-Temporal Mobile Resource Allocation"
+This is the code for paper "DyPS: Dynamic Parameter Sharing in Multi-Agent Reinforcement Learning for Spatio-Temporal Resource Allocation  "
 
 
 ## Installation and Setups 
